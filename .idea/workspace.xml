@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75f8895b-a21f-4d6c-b7a7-4c1620df2c5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PICS/src/api/unsplash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PICS/src/components/ImageCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PICS/src/components/ImageList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PICS/src/components/ImageList.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/src/CommentDetail.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/src/approvalCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PICS/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/PICS/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PICS/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/PICS/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PICS/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/PICS/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PICS/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/PICS/src/components/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PICS/src/components/ImageCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/PICS/src/components/ImageCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PICS/src/components/ImageList.css" beforeDir="false" afterPath="$PROJECT_DIR$/PICS/src/components/ImageList.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/public/index.html" afterDir="false" />
@@ -77,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PICS/src/components/ImageList.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -92,17 +85,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PICS/src/components/ImageCard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="189">
+              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PICS/src/components/ImageList.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="60">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -144,9 +137,9 @@
         <option value="$PROJECT_DIR$/PICS/src/components/SearchBar.js" />
         <option value="$PROJECT_DIR$/PICS/src/api/unsplash.js" />
         <option value="$PROJECT_DIR$/PICS/src/components/App.js" />
-        <option value="$PROJECT_DIR$/PICS/src/components/ImageList.css" />
-        <option value="$PROJECT_DIR$/PICS/src/components/ImageCard.js" />
         <option value="$PROJECT_DIR$/PICS/src/components/ImageList.js" />
+        <option value="$PROJECT_DIR$/PICS/src/components/ImageCard.js" />
+        <option value="$PROJECT_DIR$/PICS/src/components/ImageList.css" />
       </list>
     </option>
   </component>
@@ -249,12 +242,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555962349237</updated>
-      <workItem from="1555962350437" duration="22378000" />
+      <workItem from="1555962350437" duration="24522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22378000" />
+    <option name="totallyTimeSpent" value="24522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="37" width="1400" height="837" extended-state="0" />
@@ -372,13 +365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PICS/src/components/ImageList.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PICS/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -389,13 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PICS/src/components/ImageCard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PICS/src/components/ImageList.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -403,6 +382,20 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PICS/src/components/ImageCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PICS/src/components/ImageList.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
