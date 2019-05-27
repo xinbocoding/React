@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee68a403-b56b-49a1-aefe-dda7dff57961" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/api/youtube.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/youtube.js" afterDir="false" />
-    </list>
+    <list default="true" id="ee68a403-b56b-49a1-aefe-dda7dff57961" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -226,12 +224,12 @@
       <workItem from="1557705180894" duration="12386000" />
       <workItem from="1558475829818" duration="967000" />
       <workItem from="1558552604326" duration="170000" />
-      <workItem from="1558567690827" duration="1447000" />
+      <workItem from="1558567690827" duration="1534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14970000" />
+    <option name="totallyTimeSpent" value="15057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1400" height="837" extended-state="0" />
