@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import { connect } from 'react-redux';
+import { signIn, signOut } from '../action';
 
 const clientId = process.env.REACT_APP_AUTH_ID;
 
@@ -18,7 +20,7 @@ class GoogleAuth extends React.Component {
     });
   }
 
-  onAuthChange = () => {
+  onAuthChange = (isSignedIn) => {
     this.setState({ isSignedIn: this.auth.isSignedIn.get() });
   };
 
@@ -58,4 +60,4 @@ class GoogleAuth extends React.Component {
   }
 }
 
-export default GoogleAuth;
+export default connect(null, {signIn, signOut})(GoogleAuth);
